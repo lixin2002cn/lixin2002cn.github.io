@@ -9,6 +9,12 @@ redirect_from:
 
 I am a technology enthusiast. I graduated from the School of Information Science and Engineering of Shandong University and am currently studying at the Institute of Aerospace Information Innovation, Chinese Academy of Sciences.
 
+My research interests are very broad, including but not limited to deep learning, electronic design and wireless communications.I am committed to applying deep learning technology to many aspects of society, and firmly believe that technology can bring better social equity, social development and social security.
+
+My current research focuses on the combination of remote sensing information technology and deep learning, as well as the combination of social informatics and deep learning technology. Since 2022, I have conducted ReID, image super-resolution, video recognition, target detection, target segmentation, multi-modal sentiment analysis, electronic design, AIS data anomaly detection, multi-frame super-resolution, time series prediction, Masked Image Modeling Study and practice in multiple directions.
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
