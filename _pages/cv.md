@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Signal and Information Processing, University of Chinese Academy of Sciences, 2029 (expected)
+* B.S. in Communications Engineering, Shandong University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023: Software Development
+  * Qingdao Anxin Ruilian Technology Co., Ltd.
+  * Duties includes: Complete software development and front-end design, and cooperate with the communication test between the host computer and the slave computer
+  * Supervisor: Dr. Pengbo Xing
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python: Deep Learning, Data Processing, Web Crawler, Software Design
+* C#: Software Design
+* Matlab: Data Processing
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* National 1st Prize-- Awarded in the “REALIZE DREAM” Hardware Design Competition (2022)
+* national 2nd Prize -- Awarded in Low-carbon Technology Competition (2022)
+* Provincial  3rd Prize -- Awarded in Nation College Student Intelligent Car Competition (2022)
+* International 3rd Prize -- Awarded in 2022 OpenCV Competition (2022) **(team leader)**
+* International Meritorious Prize -- Awarded in Mathematical Contest in Modeling (2022)
+* International Honourable Prize -- Awarded in Mathematical Contest in Modeling (2023) **(team leader)**
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding Executive of the Student Union (2021)
+* Online Teaching Support for Xinjiang (2022)
+* OpenMMLab Campus Ambassador (2022)
+* Inspur Group Campus Ambassador (2022)
+* HUAWEI Student Developer (2022)
+* Reviewer for IET Signal Processing (2024)
+
