@@ -12,22 +12,22 @@ title                    : "Xin Li's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lixin2002cn.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://lixin2002cn.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1361735719337_.pic.jpg"
   name             : "Xin Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Learner"
+  # pronouns         : # example: "she/her"  
+  bio              : "A Learner in Deep Learning"
   location         : "Beijing, China"
   employer         : "UCAS"
-  uri              : # URL
+  url              : https://lixin2002cn.github.io/# URL
   email            : "lixin2002cn@gmail.com" 
 
   # Academic websites
