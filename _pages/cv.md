@@ -26,12 +26,16 @@ Skills
 * python: Deep Learning, Data Processing, Web Crawler, Software Design
 * C#: Software Design
 * Matlab: Data Processing
+* Writing: Latex, Markdown
+* Data Labeling
+* OS: Mac, Windows, Linux
+* Cooking, Photography, Computer Repair and so on
 
   
 Awards
 ======
 * National 1st Prize-- Awarded in the “REALIZE DREAM” Hardware Design Competition (2022)
-* national 2nd Prize -- Awarded in Low-carbon Technology Competition (2022)
+* National 2nd Prize -- Awarded in Low-carbon Technology Competition (2022)
 * Provincial  3rd Prize -- Awarded in Nation College Student Intelligent Car Competition (2022)
 * International 3rd Prize -- Awarded in 2022 OpenCV Competition (2022) **(team leader)**
 * International Meritorious Prize -- Awarded in Mathematical Contest in Modeling (2022)
