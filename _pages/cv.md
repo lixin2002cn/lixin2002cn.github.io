@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Signal and Information Processing, University of Chinese Academy of Sciences, 2029 (expected)
 * B.S. in Communications Engineering, Shandong University, 2024
+  * Supervisor: Prof. Chao Zhai
 
 Work experience
 ======
