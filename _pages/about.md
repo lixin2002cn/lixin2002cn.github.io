@@ -27,7 +27,7 @@ Projects I attended
 
   * [Paper Reading Note](https://github.com/lixin2002cn/paper_reading)
 
-  * [some useful code](https://github.com/lixin2002cn/useful_code)
+  * [Some useful code](https://github.com/lixin2002cn/useful_code)
   * Multimodal Sentiment Analysis
 
   * Image Fusion for Hyperspectral Data and Multispectral Data
