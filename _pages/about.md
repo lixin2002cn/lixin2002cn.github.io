@@ -25,9 +25,6 @@ Projects I attended
 
   * [Upper computer software](https://github.com/lixin2002cn/upper-computer)
 
-  * [Paper Reading Note](https://github.com/lixin2002cn/paper_reading)
-
-  * [Some useful code](https://github.com/lixin2002cn/useful_code)
   * Multimodal Sentiment Analysis
 
   * Image Fusion for Hyperspectral Data and Multispectral Data
