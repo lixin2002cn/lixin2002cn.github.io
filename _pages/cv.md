@@ -24,7 +24,7 @@ Work experience
   
 Skills
 ======
-* python: Deep Learning, Data Processing, Web Crawler, Software Design
+* Python: Deep Learning, Data Processing, Web Crawler, Software Design
 * C#: Software Design
 * Matlab: Data Processing
 * Writing: Latex, Markdown
