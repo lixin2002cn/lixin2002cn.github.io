@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Image Segmentation"
 collection: teaching
-type: "Undergraduate course"
+type: "Tutoring"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Online"
+date: 2025-01-15
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is designed for non-computer science students. It mainly explains the basic concepts of deep learning, focuses on the knowledge points of image segmentation, and uses the crack segmentation task as an example.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Waiting for updating
 ======
