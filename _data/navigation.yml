@@ -11,7 +11,7 @@ main:
   - title: "Talks"
     # url: /talks/     
   - title: "Teaching"
-    # url: /talks/ 
+    url: /teaching/ 
   
   - title: "Blog Posts"
     url: /year-archive/
