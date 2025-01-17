@@ -12,7 +12,7 @@ This course is designed for non-computer science students. It mainly explains th
 
 Lesson 01: Introduction
 ======
-You can get the ppt from the link: \url{https://pan.baidu.com/s/13MPktb-eUCvzAFkYT73X7A?pwd=p1ks} (code: p1ks )
+You can get the ppt from the link: <https://pan.baidu.com/s/13MPktb-eUCvzAFkYT73X7A?pwd=p1ks> (code: p1ks )
 
 
 Waiting for updating
