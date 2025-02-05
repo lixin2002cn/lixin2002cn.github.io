@@ -22,6 +22,9 @@ Work experience
   * Qingdao Anxin Ruilian Technology Co., Ltd.
   * Duties includes: Complete software development and front-end design, and cooperate with the communication test between the host computer and the slave computer
   * Supervisor: Dr. Pengbo Xing
+* February 2025: Large Language Model Research Assistant
+  * The Hong Kong University of Science and Technology (Guangzhou)
+  * Supervisor: Prof. Wei Wang
   
 Skills
 ======
