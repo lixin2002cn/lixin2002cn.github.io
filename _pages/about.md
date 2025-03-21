@@ -11,10 +11,10 @@ I am a technology enthusiast, who studied at the School of Information at Shando
 
 My research interests are very broad, including but not limited to deep learning, electronic design and wireless communications.I am committed to applying deep learning technology to many aspects of society, and firmly believe that technology can bring better social equity, social development and social security.
 
-My current research focuses on the combination of remote sensing information technology and deep learning, as well as the combination of social informatics and deep learning technology. Since 2022, I have been immersed in a variety of research and practical applications, encompassing Person Re-Identification (ReID), image super-resolution, video recognition, target detection, medical segmentation，multi-modal sentiment analysis, electronic design, AIS anomaly detection，multi-frame super-resolution, time series prediction, and the Masked Image Modeling, broadening my expertise across a range of technological fields.
+My current research focuses on the combination of remote sensing information technology and deep learning, as well as the combination of social informatics and deep learning technology. Since 2022, I have been immersed in a variety of research and practical applications, encompassing Person Re-Identification (ReID), image super-resolution, video recognition, target detection, medical segmentation，multi-modal sentiment analysis, electronic design, AIS anomaly detection，multi-frame super-resolution, time series prediction, and the Masked Image Modeling, broadening my expertise across a range of technological fields.I have recently been studying and practicing the application of large language models in professional fields.
 
 
-I’m looking to collaborate on low level visual task, action recognition, video prediction,computational imaging, MultiModal data fusion,affective computing  and so on.
+I’m looking to collaborate on low level visual task, action recognition, video prediction,computational imaging, MultiModal data fusion,affective computing, LLM and so on.
 
 
 Projects I attended
@@ -38,7 +38,9 @@ Work Experience
   * Qingdao Anxin Ruilian Technology Co., Ltd.
     
     Boss:  Dr. Xing
-
+  * The Hong Kong University of Science and Technology (Guangzhou)
+    
+    Tutor: Prof. Wei Wang
 
 Concat me
 ------
