@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a technology enthusiast, who studied at the School of Information at Shandong University for my undergraduate degree in Communication Engineering under the guidance of Professor [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ). Currently, I am pursuing my Ph.D. at the Aerospace Information Research Institute, Chinese Academy of Sciences, focusing on the research of optical remote sensing signal processing.
+I'm a tech enthusiast. I studied at Shandong University's School of Information Science and Engineering, advised by Professor [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ), and graduated in June 2024 as an outstanding student. I then pursued a PhD at the Aerospace Information Research Institute, Chinese Academy of Sciences, but took a leave in February 2025. I'm now at the Hong Kong University of Science and Technology (Guangzhou), doing interdisciplinary research on large language models under Professor [Wei Wang](https://scholar.google.com/citations?user=wLtu3FYAAAAJ). 
 
 My research interests are very broad, including but not limited to deep learning, electronic design and wireless communications.I am committed to applying deep learning technology to many aspects of society, and firmly believe that technology can bring better social equity, social development and social security.
 
