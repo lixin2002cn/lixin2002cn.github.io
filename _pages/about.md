@@ -25,11 +25,7 @@ Projects I attended
 
   * [Upper computer software](https://github.com/lixin2002cn/upper-computer)
 
-  * Multimodal Sentiment Analysis
-
-  * Image Fusion for Hyperspectral Data and Multispectral Data
-  
-  * Super-Resolution for Remote sensing
+  * LLM in Material(HKUST(GZ))
 
 
 
