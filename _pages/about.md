@@ -27,7 +27,7 @@ Work Experience
     Tutor: Prof. Wei Wang
 
 
-News!!!
+News
 ======
 ......
 
