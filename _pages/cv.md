@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Signal and Information Processing, University of Chinese Academy of Sciences, 2029 (expected)
+* Ph.D in Signal and Information Processing, University of Chinese Academy of Sciences
+  * Due to irreconcilable conflicts with the research group and the departure of my advisor, I withdrew from the program in July 2025.
 * B.S. in Communications Engineering, Shandong University, 2024
   * Outstanding Graduates of Shandong University Class of 2024
   * Supervisor: Prof. Chao Zhai
