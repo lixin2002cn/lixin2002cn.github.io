@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Data Science Analysis, HKUST(Guangzhou)
+  * 25 Fall
 * Ph.D in Signal and Information Processing, University of Chinese Academy of Sciences
   * Due to irreconcilable conflicts with the research group and the departure of my advisor, I withdrew from the program in July 2025.
 * B.S. in Communications Engineering, Shandong University, 2024
