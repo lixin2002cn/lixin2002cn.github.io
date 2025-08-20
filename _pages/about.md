@@ -28,7 +28,7 @@ Work Experience
 
 News
 ======
-......
+  * Our one paper was accepted by **Findings of EMNLP2025**
 
 Concat me
 ------
