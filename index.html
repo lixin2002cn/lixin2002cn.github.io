@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xin Li - Homepage</title>
+    <meta name="description" content="Academic homepage of Xin Li, PhD Candidate at HKUST(GZ)">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Playfair Display', 'serif'],
+                    },
+                    colors: {
+                        primary: '#0f2b46',
+                        secondary: '#1e5a8a',
+                        accent: '#3b82f6',
+                        warm: '#f59e0b',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="text-gray-800 font-sans antialiased leading-relaxed">
+
+    <!-- Navigation -->
+    <nav id="main-nav" class="nav-transparent fixed top-0 left-0 right-0 z-50 transition-all duration-300">
+        <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="#" class="text-2xl font-serif font-extrabold tracking-tight text-primary" id="nav-name">Xin Li</a>
+                </div>
+                <div class="hidden md:flex md:items-center md:space-x-6">
+                    <a href="#about" class="nav-link">About</a>
+                    <a href="#education" class="nav-link">Education</a>
+                    <a href="#experience" class="nav-link">Experience</a>
+                    <a href="#publications" class="nav-link">Publications</a>
+                    <a href="#projects" class="nav-link">Projects</a>
+                    <a href="#awards" class="nav-link">Awards</a>
+                    <a href="#skills" class="nav-link">Skills</a>
+                </div>
+                <!-- Mobile menu button -->
+                <div class="flex items-center md:hidden">
+                    <button type="button" class="mobile-menu-btn inline-flex items-center justify-center p-2 rounded-md text-gray-500 hover:text-gray-700 hover:bg-gray-100 focus:outline-none" aria-controls="mobile-menu" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <i class="fas fa-bars text-xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile menu -->
+        <div class="md:hidden hidden" id="mobile-menu">
+            <div class="pt-2 pb-3 space-y-1 bg-white/95 backdrop-blur border-t border-gray-100">
+                <a href="#about" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">About</a>
+                <a href="#education" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Education</a>
+                <a href="#experience" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Experience</a>
+                <a href="#publications" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Publications</a>
+                <a href="#projects" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Projects</a>
+                <a href="#awards" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Awards</a>
+                <a href="#skills" class="mobile-link block px-6 py-3 text-base font-medium text-gray-700 hover:text-accent hover:bg-blue-50/50">Skills</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero-gradient relative overflow-hidden">
+        <div class="hero-pattern absolute inset-0"></div>
+        <!-- Floating decorative shapes -->
+        <div class="absolute top-20 left-[10%] w-64 h-64 bg-blue-400/10 rounded-full blur-3xl animate-float-slow"></div>
+        <div class="absolute bottom-10 right-[15%] w-48 h-48 bg-indigo-400/10 rounded-full blur-3xl animate-float-slow-reverse"></div>
+        <div class="absolute top-1/2 left-[60%] w-32 h-32 bg-cyan-300/8 rounded-full blur-2xl animate-float-slow"></div>
+        <div class="relative max-w-6xl mx-auto px-6 sm:px-8 lg:px-12 pt-28 pb-24 md:pt-36 md:pb-32">
+            <div class="flex flex-col md:flex-row items-center gap-10 md:gap-16" id="hero-container">
+                <!-- Hero content loaded via JS -->
+                <div class="animate-pulse flex flex-col md:flex-row items-center gap-10 w-full">
+                    <div class="w-48 h-48 rounded-full bg-white/20 flex-shrink-0"></div>
+                    <div class="flex-1 space-y-4 w-full">
+                        <div class="h-10 bg-white/20 rounded w-1/2"></div>
+                        <div class="h-6 bg-white/20 rounded w-1/3"></div>
+                        <div class="h-20 bg-white/20 rounded w-full"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Decorative wave -->
+        <div class="absolute bottom-0 left-0 right-0">
+            <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" class="w-full h-12 md:h-20">
+                <path d="M0 80V20C240 60 480 0 720 30C960 60 1200 10 1440 40V80H0Z" fill="#f8fafc"/>
+            </svg>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- About Section -->
+        <section id="about" class="bg-slate-50 scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-8">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-user"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">About Me</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="about-container" class="text-gray-600 text-lg leading-relaxed text-justify">
+                </div>
+            </div>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education" class="bg-white scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-graduation-cap"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">Education</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="education-container" class="space-y-8">
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="bg-slate-50 scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-briefcase"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">Experience</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="experience-container" class="space-y-8">
+                </div>
+            </div>
+        </section>
+
+        <!-- Publications Section -->
+        <section id="publications" class="bg-white scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-book-open"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">Publications & Patents</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="publications-container" class="space-y-6">
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="bg-slate-50 scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-flask"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">Selected Projects</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="projects-container" class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                </div>
+            </div>
+        </section>
+
+        <!-- Awards Section -->
+        <section id="awards" class="bg-white scroll-mt-20 py-16 md:py-20">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon"><i class="fas fa-trophy"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-primary">Honors & Awards</h2>
+                    </div>
+                    <div class="section-line"></div>
+                </div>
+                <div id="awards-container" class="space-y-8">
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="scroll-mt-20 py-16 md:py-20 skills-gradient">
+            <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+                <div class="section-header mb-10">
+                    <div class="flex items-center gap-3">
+                        <span class="section-icon section-icon-light"><i class="fas fa-cogs"></i></span>
+                        <h2 class="text-3xl font-serif font-bold text-white">Skills</h2>
+                    </div>
+                    <div class="section-line section-line-light"></div>
+                </div>
+                <div id="skills-container" class="space-y-4">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-10">
+        <div class="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+                <div class="text-center md:text-left">
+                    <p class="font-bold text-lg">Xin Li</p>
+                    <p class="text-blue-200 text-sm mt-1">PhD Candidate @ HKUST(GZ)</p>
+                </div>
+                <div class="flex items-center gap-5" id="footer-social">
+                </div>
+                <div class="text-center md:text-right text-blue-200 text-sm">
+                    <p>&copy; <span id="current-year"></span> Xin Li</p>
+                    <p class="mt-1">Updated: <span id="last-updated"></span></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JS -->
+    <script src="js/script.js"></script>
+</body>
+</html>

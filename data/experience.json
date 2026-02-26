@@ -1,0 +1,45 @@
+[
+    {
+        "company": "YAGOTec",
+        "role": "Technology Partner",
+        "location": "Remote, Tianjin",
+        "date": "Jan. 2026 – Now",
+        "link": "http://www.yagotec.com/",
+        "details": [
+            "Responsible for the company's strategic planning and transformation.",
+            "Recommendation algorithms, app feature planning, AIGC (Artificial Intelligence Generated Content)."
+        ]
+    },
+    {
+        "company": "LuminaPath.ai",
+        "role": "Co-founder in Technology",
+        "location": "Remote, America",
+        "date": "Sept. 2025 – Now",
+        "link": "http://luminapath.ai/",
+        "details": [
+            "Leading the technical team to develop the company's MVP, introduced LLM, VLM and Agent technologies into the teaching system, and enabled the transformation of traditional teaching models.",
+            "2026 President's Innovation Challenge Semi Finalist (Harvard innovation Labs)."
+        ]
+    },
+    {
+        "company": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "role": "Large Language Model Research Assistant",
+        "location": "Guangzhou, Guangdong",
+        "date": "Feb. 2025 – Jan. 2026",
+        "details": [
+            "Efficient fine-tuning of Large Language model for material domain.",
+            "Data collection, cleaning, enhancement and processing."
+        ]
+    },
+    {
+        "company": "Qingdao Anxin Ruilian Technology Co., Ltd.",
+        "role": "Software Engineer",
+        "location": "Qingdao, Shandong",
+        "date": "May 2023",
+        "details": [
+            "Use C# to complete software development and front-end design.",
+            "Cooperate with the communication test between the host computer and the slave computer.",
+            "The software has been successfully deployed in factory applications."
+        ]
+    }
+]

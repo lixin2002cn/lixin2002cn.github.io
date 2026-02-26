@@ -1,0 +1,15 @@
+[
+    {
+        "type": "Papers",
+        "items": [
+            "When Inverse Data Outperforms: Exploring the Pitfalls of Mixed Data in Multi-Stage Fine-Tuning (<strong>EMNLP 2025 Findings</strong>, <a href='https://github.com/16demi/ReasonAlign-analysis'>Code</a>, <a href='https://arxiv.org/abs/2509.13079'>Paper</a>)",
+            "STFT-AECNN: An Attention-Enhanced CNN for Efficient $\\Phi-OTDR$ Event Recognition in IoT-Enabled Distributed Acoustic Sensing (<em>Under Review</em>, <a href='https://arxiv.org/abs/2509.19281'>Paper</a>)"
+        ]
+    },
+    {
+        "type": "Software Copyright",
+        "items": [
+            "Pneumonia detection assistant (<em>Number:2023SR0640606</em>)"
+        ]
+    }
+]

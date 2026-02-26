@@ -1,0 +1,43 @@
+[
+    
+    {
+        "title": "LLM4Material",
+        "subtitle": "Guangzhou Municipal Key Laboratory of Materials Informatics",
+        "date": "Feb. 2025 -- Aug. 2025",
+        "details": [
+            "This work is dedicated to the development of LLM with reasoning for use in the field of materials science.",
+            "Promising results in the field of perovskites by using a small number of high-quality samples for SFT.",
+            "Using the Rule-based Method and DPO, the model can output professional answers that are better than R1."
+        ]
+    },
+    {
+        "title": "Super-Resolution for Remote sensing",
+        "subtitle": "Graduation Project, Score: 97",
+        "date": "Jan. 2024 -- Apr. 2024",
+        "details": [
+            "This work became a candidate for excellent graduation thesis in the school (top 3%).",
+            "Explore the applicability of current reconstruction metrics in remote sensing image tasks, and use CLIP's image encoder for semantic evaluation of reconstruction quality.",
+            "Proposed a multi-frame remote sensing image super-resolution network based on swin-transformer."
+        ]
+    },
+    {
+        "title": "Pneumonia Detection Assistant",
+        "subtitle": "Software registration(2023SR0640606)",
+        "date": "Oct. 2022 – Jan. 2023",
+        "link": "https://github.com/lixin2002cn/Pneumonia-detection-assistant",
+        "details": [
+            "This work won the third prize in the OpenCV 2022 Competition held by OpenCV Company.",
+            "Implemented case identification and lesion segmentation for lung images through VGGNet and BiSeNetv2 algorithms, with an accuracy of 92% and an imou of 0.6162.",
+            "Used ONNX and PyQt to deploy the model and developed a cross-platform software."
+        ]
+    },
+    {
+        "title": "Unmanned disinfection vehicle based on ROS",
+        "subtitle": "National 1st Prize",
+        "date": "Dec. 2022 - Jan. 2023",
+        "details": [
+            "In response to the COVID-19 pandemic at the time, an unmanned disinfection vehicle based on ROS was designed, which can be controlled by a handle and a computer and automatically avoid obstacles.",
+            "Mainly responsible for the physical structure design, circuit design and peripheral circuit control of the sterilizer."
+        ]
+    }
+]
