@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Scholarships",
+        "items": [
+            {"title": "National Encouragement Scholarship * 2", "date": "2021, 2023"},
+            {"title": "First-Class Scholarship for Research Innovation * 2", "date": "2022, 2023"},
+            {"title": "Shandong University Academic Second-Class Scholarship * 2", "date": "2021, 2023"},
+            {"title": "Shandong Provincial Encouragement Scholarship", "date": "2022"},
+            {"title": "Shandong University Academic Third-Class Scholarship", "date": "2022"}
+        ]
+    },
+    {
+        "category": "Achievements",
+        "items": [
+            {"title": "<em>National 1st Prize</em> Awarded in the 'REALIZE DREAM' Hardware Design Competition", "date": "2022"},
+            {"title": "<em>National 2nd Prize</em> Awarded in Low-carbon Technology Competition", "date": "2022"},
+            {"title": "<em>Provincial 1st Prize</em> Awarded in China Undergraduate Mathematical Contest in Modeling", "date": "2022"},
+            {"title": "<em>Provincial 3rd Prize</em> Awarded in Nation College Student Intelligent Car Competition", "date": "2022"},
+            {"title": "<em>International 3rd Prize</em> Awarded in 2022 OpenCV Competition (<strong>team leader</strong>)", "date": "2022"},
+            {"title": "<em>International Meritorious Prize</em> Awarded in Mathematical Contest in Modeling", "date": "2022"},
+            {"title": "<em>International Honourable Prize</em> Awarded in Mathematical Contest in Modeling (<strong>team leader</strong>)", "date": "2023"}
+        ]
+    },
+    {
+        "category": "Social Engagements",
+        "items": [
+            {"title": "Outstanding Executive of the Student Union", "date": "2021"},
+            {"title": "SDU Psychological Committee Skills Competition Second Prize for Team", "date": "2021"},
+            {"title": "Online Teaching Support for Xinjiang", "date": "2022"},
+            {"title": "OpenMMLab Campus Ambassador", "date": "2022"},
+            {"title": "Inspur Group Campus Ambassador", "date": "2022"},
+            {"title": "HUAWEI Student Developers", "date": "2022"},
+            {"title": "May 4th Student Innovation and Entrepreneurship Activity Advanced Individual", "date": "2022"},
+            {"title": "Reviewer for IET Signal Processing", "date": "2024"}
+        ]
+    }
+]

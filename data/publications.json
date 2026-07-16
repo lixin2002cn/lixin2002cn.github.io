@@ -1,0 +1,19 @@
+[
+    {
+        "type": "Papers",
+        "items": [
+            "Uncertainty-Aware Clarification in LLM Agents with Information Gain (<strong>ICML 2026</strong>, <a href='https://arxiv.org/abs/2606.03135'>Paper</a>)",
+            "DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization (<strong>ACL 2026 Findings</strong>, <a href='https://github.com/Demi-deng2/DGPO'>Code</a>, <a href='https://aclanthology.org/2026.findings-acl.1963/'>Paper</a>)",
+            "Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates (<em>arXiv 2026</em>, <a href='https://arxiv.org/abs/2603.11052'>Paper</a>)",
+            "BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs (<em>arXiv 2026</em>, <a href='https://arxiv.org/abs/2603.20309'>Paper</a>)",
+            "When Inverse Data Outperforms: Exploring the Pitfalls of Mixed Data in Multi-Stage Fine-Tuning (<strong>EMNLP 2025 Findings</strong>, <a href='https://github.com/16demi/ReasonAlign-analysis'>Code</a>, <a href='https://aclanthology.org/2025.findings-emnlp.346/'>Paper</a>)",
+            "An Attention-Enhanced Φ-OTDR Event Recognition Framework for Edge-Based Distributed Acoustic Sensing (<em>arXiv 2025</em>, <a href='https://arxiv.org/abs/2509.19281'>Paper</a>)"
+        ]
+    },
+    {
+        "type": "Software Copyright",
+        "items": [
+            "Pneumonia detection assistant (<em>Number:2023SR0640606</em>)"
+        ]
+    }
+]

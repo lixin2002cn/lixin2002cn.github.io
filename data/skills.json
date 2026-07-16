@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Language",
+        "details": "Mandarin, English"
+    },
+    {
+        "category": "Software",
+        "details": "Python, C#, Matlab, Pytorch, PaddlePaddle, C, HTML, CSS, Javascript, Vue and so on"
+    },
+    {
+        "category": "Official tools",
+        "details": "Latex, Markdown, Office, Xmind and so on"
+    },
+    {
+        "category": "Operation System",
+        "details": "Ubuntu, Windows, macOS"
+    },
+    {
+        "category": "Others",
+        "details": "Cooking, Photography, Computer Repair and so on"
+    }
+]

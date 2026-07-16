@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xin Li</title>
+    <meta name="description" content="Xin Li — PhD Candidate in Data Science & Analytics at HKUST(GZ). Research in LLM, Agent, AI4Science, AI4Finance.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="cursor-glow" id="cursorGlow"></div>
+
+<nav class="nav" id="mainNav">
+    <div class="nav-inner">
+        <a href="index.html" class="nav-logo">XL</a>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link active">About</a>
+            <a href="journey.html" class="nav-link">Journey</a>
+            <a href="publications.html" class="nav-link">Papers</a>
+            <a href="awards.html" class="nav-link">Awards</a>
+        </div>
+        <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+    <div class="nav-mobile" id="navMobile">
+        <a href="index.html" class="nav-mobile-link">About</a>
+        <a href="journey.html" class="nav-mobile-link">Journey</a>
+        <a href="publications.html" class="nav-mobile-link">Papers</a>
+        <a href="awards.html" class="nav-mobile-link">Awards</a>
+    </div>
+</nav>
+
+<section id="hero" class="hero">
+    <canvas id="heroCanvas" class="hero-canvas"></canvas>
+    <div class="hero-content hero-split">
+        <div class="hero-text">
+            <h1 class="hero-name reveal">Xin Li<span class="hero-dot">.</span></h1>
+            <p class="hero-title reveal reveal-delay-1">PhD Candidate @ <span class="text-gradient">HKUST(GZ)</span></p>
+            <div class="hero-about reveal reveal-delay-2">
+                <p>I am a PhD candidate of <strong>Data Science and Analytics</strong> Thrust in Information Hub at The Hong Kong University of Science and Technology (Guangzhou), supervised by <a href="https://dbwangwei.github.io/" target="_blank">Prof. Wei Wang</a> & <a href="https://nantang.github.io/" target="_blank">Associate Prof. Nan Tang</a>. My research interests include <strong>Large Language Models</strong>, <strong>Agent</strong>, <strong>AI4Science</strong>, and <strong>AI4Finance</strong>.</p>
+                <p>I am a fan of Eason Chan. I have two cats, <a href="https://yuanxiao0305.github.io/" target="_blank">Yuanxiao</a> and <a href="https://lixia0505.github.io/" target="_blank">Lixia</a>.</p>
+                <p>Outside research, I enjoy traveling, photography, and hiking. I like documenting cities, mountains, and quiet moments along the way through my lens.</p>
+            </div>
+        </div>
+        <div class="hero-right reveal reveal-delay-2">
+            <div class="hero-photo-wrap">
+                <div class="hero-photo-frame">
+                    <img src="images/profile.jpg" alt="Xin Li">
+                </div>
+                <picture>
+                    <source srcset="images/cats-play-transparent.webp" type="image/webp">
+                    <img class="hero-cats-gif" src="images/cats-play-transparent.gif" alt="Yuanxiao and Lixia playing together">
+                </picture>
+            </div>
+            <div class="hero-actions">
+                <a href="mailto:lixin2002cn@gmail.com" class="btn btn-primary"><i class="fas fa-envelope"></i> Get in Touch</a>
+                <a href="https://scholar.google.com.hk/citations?user=zzLFn4UAAAAJ&hl=zh-CN" target="_blank" class="btn btn-ghost"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+            </div>
+            <div class="hero-socials">
+                <a href="https://github.com/lixin2002cn" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/lixin2002/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://scholar.google.com.hk/citations?user=zzLFn4UAAAAJ&hl=zh-CN" target="_blank" title="Scholar"><i class="fas fa-graduation-cap"></i></a>
+                <a href="mailto:lixin2002cn@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="travel-section" id="travel">
+    <div class="container">
+        <div class="travel-heading reveal">
+            <div>
+                <p class="travel-eyebrow"><i class="fas fa-camera-retro"></i> Beyond the Lab</p>
+                <h2>Through My <span class="text-gradient">Lens</span></h2>
+            </div>
+            <p class="travel-intro">A visual journal of cities, mountains, coastlines, and the small moments that made me stop and look.</p>
+        </div>
+
+        <div class="travel-grid" id="travelGrid">
+            <button class="travel-photo travel-photo-hero reveal" type="button" data-full="images/photos/lijiang1.jpg" data-caption="Lijiang">
+                <img src="images/photos/lijiang1.jpg" alt="Prayer flags and a golden ornament framed by the mountains of Lijiang" loading="lazy">
+                <span>Lijiang</span>
+            </button>
+            <button class="travel-photo travel-photo-portrait reveal" type="button" data-full="images/photos/lijiang2.jpg" data-caption="Lijiang">
+                <img src="images/photos/lijiang2.jpg" alt="A distant hiker facing a mountain range in Lijiang" loading="lazy">
+                <span>Lijiang</span>
+            </button>
+            <button class="travel-photo travel-photo-wide reveal" type="button" data-full="images/photos/HK.jpg" data-caption="Hong Kong">
+                <img src="images/photos/HK.jpg" alt="A red taxi passing through a tree-lined Hong Kong street" loading="lazy">
+                <span>Hong Kong</span>
+            </button>
+            <button class="travel-photo reveal" type="button" data-full="images/photos/wenshan1.jpg" data-caption="Wenshan">
+                <img src="images/photos/wenshan1.jpg" alt="A warm sunset behind the hills of Wenshan" loading="lazy">
+                <span>Wenshan</span>
+            </button>
+            <button class="travel-photo reveal" type="button" data-full="images/photos/qingdao1.jpg" data-caption="Qingdao">
+                <img src="images/photos/qingdao1.jpg" alt="A sunny beach and blue sea in Qingdao" loading="lazy">
+                <span>Qingdao</span>
+            </button>
+            <button class="travel-photo reveal" type="button" data-full="images/photos/Guangzhou2.jpg" data-caption="Guangzhou">
+                <img src="images/photos/Guangzhou2.jpg" alt="Morning light along a tree-lined street in Guangzhou" loading="lazy">
+                <span>Guangzhou</span>
+            </button>
+
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/HK2.jpg" data-caption="Hong Kong">
+                <img src="images/photos/HK2.jpg" alt="A vertical city view in Hong Kong" loading="lazy"><span>Hong Kong</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/guangzhou.jpg" data-caption="Guangzhou">
+                <img src="images/photos/guangzhou.jpg" alt="Sunlit residential buildings and flowering trees in Guangzhou" loading="lazy"><span>Guangzhou</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/beijing1.jpg" data-caption="Beijing">
+                <img src="images/photos/beijing1.jpg" alt="An empty bench beneath shaded trees in Beijing" loading="lazy"><span>Beijing</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/beijing2.jpg" data-caption="Beijing">
+                <img src="images/photos/beijing2.jpg" alt="A glowing lotus installation at night in Beijing" loading="lazy"><span>Beijing</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/haikou1.jpg" data-caption="Haikou">
+                <img src="images/photos/haikou1.jpg" alt="Colorful fish swimming through an aquarium in Haikou" loading="lazy"><span>Haikou</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/haikou2.jpg" data-caption="Haikou">
+                <img src="images/photos/haikou2.jpg" alt="A stage performance photographed in Haikou" loading="lazy"><span>Haikou</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/jinan1.jpg" data-caption="Jinan">
+                <img src="images/photos/jinan1.jpg" alt="A cat walking through a patch of sunlight in Jinan" loading="lazy"><span>Jinan</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/jinan2.jpg" data-caption="Jinan">
+                <img src="images/photos/jinan2.jpg" alt="A quiet green park scene in Jinan" loading="lazy"><span>Jinan</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/kunming.jpg" data-caption="Kunming">
+                <img src="images/photos/kunming.jpg" alt="A cluster of white and pink flowers in Kunming" loading="lazy"><span>Kunming</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/kunming2.jpg" data-caption="Kunming">
+                <img src="images/photos/kunming2.jpg" alt="A squirrel perched on a tree in Kunming" loading="lazy"><span>Kunming</span>
+            </button>
+            <button class="travel-photo travel-photo-more" type="button" data-full="images/photos/qingdao2.jpg" data-caption="Qingdao">
+                <img src="images/photos/qingdao2.jpg" alt="Snow falling around a lit campus monument in Qingdao" loading="lazy"><span>Qingdao</span>
+            </button>
+            <button class="travel-photo reveal" type="button" data-full="images/photos/shanghai1.jpg" data-caption="Shanghai">
+                <img src="images/photos/shanghai1.jpg" alt="A colorful street mural and doorway in Shanghai" loading="lazy"><span>Shanghai</span>
+            </button>
+            <button class="travel-photo reveal" type="button" data-full="images/photos/xiamen1.jpg" data-caption="Xiamen">
+                <img src="images/photos/xiamen1.jpg" alt="A small boat beyond a green coastal lawn in Xiamen" loading="lazy"><span>Xiamen</span>
+            </button>
+        </div>
+
+        <div class="travel-actions reveal">
+            <button class="travel-toggle" id="travelToggle" type="button" aria-expanded="false" aria-controls="travelGrid">
+                <span>View all 19 photos</span><i class="fas fa-chevron-down" aria-hidden="true"></i>
+            </button>
+        </div>
+    </div>
+</section>
+
+<dialog class="photo-lightbox" id="photoLightbox" aria-label="Travel photo preview">
+    <button class="photo-lightbox-close" type="button" aria-label="Close photo preview"><i class="fas fa-times"></i></button>
+    <figure>
+        <img src="" alt="">
+        <figcaption></figcaption>
+    </figure>
+</dialog>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <span class="footer-logo">XL</span>
+                <div>
+                    <p class="footer-name">Xin Li</p>
+                    <p class="footer-desc">PhD Candidate @ HKUST(GZ)</p>
+                </div>
+            </div>
+            <div class="footer-socials">
+                <a href="https://github.com/lixin2002cn" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/lixin2002/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://scholar.google.com.hk/citations?user=zzLFn4UAAAAJ&hl=zh-CN" target="_blank" title="Scholar"><i class="fas fa-graduation-cap"></i></a>
+                <a href="mailto:lixin2002cn@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            </div>
+            <p class="footer-copy">&copy; 2026 Xin Li. Built with care.</p>
+        </div>
+    </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

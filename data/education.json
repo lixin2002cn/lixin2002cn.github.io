@@ -1,0 +1,34 @@
+[
+    {
+        "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "degree": "PHD candidate of Data Science and Analytics Thrust in Information Hub",
+        "location": "Guangzhou, Guangdong",
+        "date": "Jan. 2026 -- Jan. 2030 (Expected)",
+        "details": [
+            "<strong>Research Directions:</strong> Large Language Model, Deep Research, Agent, AI4Science, AI4Finance",
+            "Supervised by <a href='https://dbwangwei.github.io/' target='_blank'>Prof. Wei Wang</a> & <a href='https://nantang.github.io/' target='_blank'>Associate Prof. Nan Tang</a>"
+        ]
+    },
+    {
+        "institution": "University of Chinese Academy of Sciences",
+        "degree": "PHD candidate of Signal and Information Processing",
+        "location": "Haidian, Beijing",
+        "date": "Sept. 2024 -- July 2025 (Withdrawn)",
+        "details": [
+            "<strong>Research Directions:</strong> Super-Resolution, Masked Image Model, Hyperspectral Imaging, Video Prediction",
+            "State Key Laboratory of Remote Sensing Science, Key Laboratory of Computational Optical Imaging Technology"
+        ]
+    },
+    {
+        "institution": "Shandong University",
+        "degree": "Bachelor of Communications Engineering",
+        "location": "Qingdao, Shandong",
+        "date": "Sept. 2020 -- June 2024",
+        "details": [
+            "<strong>GPA:</strong> 3.88 / 5.00, Rank: 12.5% (29/232)",
+            "<strong>Research Interests:</strong> Action Recognition, Time Series Forecasting, Medical Image Segmentation, Knowledge Distillation, Multimodal Sentiment Analysis, Electronic Design",
+            "<strong>Select Honor:</strong> Excellent Student of Shandong University",
+            "<strong>Relevant Coursework:</strong> Calculus(99), Advanced Programming Techniques(100), Information Theory(98), Probability Theory(92), Communication system integrated design(100), Graduation Project(97)"
+        ]
+    }
+]
