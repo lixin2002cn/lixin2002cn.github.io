@@ -7,7 +7,9 @@
             "Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates (<em>arXiv 2026</em>, <a href='https://arxiv.org/abs/2603.11052'>Paper</a>)",
             "BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs (<em>arXiv 2026</em>, <a href='https://arxiv.org/abs/2603.20309'>Paper</a>)",
             "When Inverse Data Outperforms: Exploring the Pitfalls of Mixed Data in Multi-Stage Fine-Tuning (<strong>EMNLP 2025 Findings</strong>, <a href='https://github.com/16demi/ReasonAlign-analysis'>Code</a>, <a href='https://aclanthology.org/2025.findings-emnlp.346/'>Paper</a>)",
-            "An Attention-Enhanced Φ-OTDR Event Recognition Framework for Edge-Based Distributed Acoustic Sensing (<em>arXiv 2025</em>, <a href='https://arxiv.org/abs/2509.19281'>Paper</a>)"
+            "An Attention-Enhanced Φ-OTDR Event Recognition Framework for Edge-Based Distributed Acoustic Sensing (<em>arXiv 2025</em>, <a href='https://arxiv.org/abs/2509.19281'>Paper</a>)",
+            "Counterfactual Self-Distillation: A Distribution-Shaping Objective for Entity-Level Unlearning in Large Language Models",
+            "RESKILL: Explicit Failure Attribution and Structured Repair for Interactive Language Agents"
         ]
     },
     {
